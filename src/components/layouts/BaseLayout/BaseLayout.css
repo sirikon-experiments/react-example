@@ -1,0 +1,9 @@
+.base-layout {
+    background-color: lightblue;
+}
+
+.base-layout-content {
+    display: block;
+    margin: auto;
+    max-width: 800px;
+}
